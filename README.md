@@ -40,5 +40,4 @@ $ npm run test:cov
 ```
 
 
-## Api Sample Collection
-```https://api.postman.com/collections/18262875-10c3ca63-7f7e-4158-8ef2-2831e4125a25?access_key=PMAT-01GVMTJHATCPE32SV7HHWS1QFH```
+## [Api Sample Collection](https://api.postman.com/collections/18262875-10c3ca63-7f7e-4158-8ef2-2831e4125a25?access_key=PMAT-01GVMTJHATCPE32SV7HHWS1QFH)
